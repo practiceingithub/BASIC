@@ -1,0 +1,22 @@
+
+
+-------------------------------------( JAVA 8 )----------------------------------------
+
+------------------------Main Features-----------------------------
+Lambada Expression
+-------Lambda expression helps us to write our code in functional style.
+-------to implements the function
+-------it helps to iterate, filter and extract data
+------- () - anonymous  function
+
+Method References
+
+Default and static keyword in interface
+
+Stream api
+
+LocalDate , LocalTime , LocalDataTime , Period , Duration.
+
+Optional Keyword
+
+
